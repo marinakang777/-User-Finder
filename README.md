@@ -65,3 +65,17 @@ https://github.com/marinakang777/-User-Finder
   pip install requests
 
 
+mkdir github-user-finder
+cd github-user-finder
+
+# Создаём файлы
+echo -e "__pycache__/\n*.pyc\nfavorites.json\n*.log" > .gitignore
+touch README.md
+# Скопируйте код выше в github_user_finder.py
+
+Git
+git init
+git add .
+git commit -m "Initial commit: GitHub User Finder"
+git remote add origin https://github.com/ВАШ_ЛОГИН/github-user-finder.git
+git push -u origin main
