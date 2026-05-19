@@ -51,7 +51,7 @@ python github_user_finder.py
 После перезапуска приложения избранные сохраняются.
 
 Ссылка на репозиторий
-https://github.com/marinakang777/-User-Finder/edit/main/README.md
+https://github.com/marinakang777/-User-Finder
 
 
 ## 4. Как проверить работу
